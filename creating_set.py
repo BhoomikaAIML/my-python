@@ -1,0 +1,7 @@
+#creating a set
+a={1,2,3,4,5}
+print(a)
+type(a)
+#output
+{1, 2, 3, 4, 5}
+set
